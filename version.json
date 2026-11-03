@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "2.0.4",
-  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.0.4/app-debug.apk",
-  "releaseNotes": "Bug fixes and performance improvements"
+  "versionCode": 102,
+  "versionName": "2.0.5",
+  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.0.5/app-debug.apk",
+  "releaseNotes": "Fixed voice model hang + download persistence"
 }
