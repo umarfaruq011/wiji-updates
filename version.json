@@ -1,6 +1,6 @@
 {
-  "versionCode": 103,
-  "versionName": "2.0.6",
-  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.0.6/app-debug.apk",
-  "releaseNotes": "Kya fix kiya likho"
+  "versionCode": 105,
+  "versionName": "2.0.8",
+  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.0.8/app-debug.apk",
+  "releaseNotes": "Stable text mode + Speedometer fixes + GPS refresh + Weather API"
 }
