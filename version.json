@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "2.0.8",
-  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.0.8/app-debug.apk",
-  "releaseNotes": "Stable text mode + Speedometer fixes + GPS refresh + Weather API"
+  "versionCode": 106,
+  "versionName": "2.0.9",
+  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.0.9/app-debug.apk",
+  "releaseNotes": "Sci-Fi Premium UI, Premium Dock, FM Radio Control, Bug Fixes"
 }
