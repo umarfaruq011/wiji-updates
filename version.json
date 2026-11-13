@@ -1,6 +1,6 @@
 {
-  "versionCode": 112,
-  "versionName": "2.1.5",
-  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.1.5/app-debug.apk",
-  "changelog": "Naya UI, Swipe navigation, Colorful Speedometer, Settings mein voice toggles shift kiye"
+  "versionCode": 113,
+  "versionName": "2.1.6",
+  "downloadUrl": "https://github.com/umarfaruq011/wiji-updates/releases/download/v2.1.6/app-debug.apk",
+  "changelog": "Naya UI, Swipe navigation, Colorful Speedometer, Home screen layout fixed, Dome background fixed."
 }
